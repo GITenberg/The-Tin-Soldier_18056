@@ -1,0 +1,35 @@
+_repo: The-Tin-Soldier_18056
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wilson, F. Vaux (Francis Vaux)
+    alias: Wilson, Francis Vaux
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '25775'
+    url: http://www.gutenberg.org/2009/agents/25775
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, Temple
+    deathdate: 1953
+    gutenberg_agent_id: '6704'
+    url: http://www.gutenberg.org/2009/agents/6704
+    wikipedia: http://en.wikipedia.org/wiki/Temple_Bailey
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+title: The Tin Soldier
+url: http://www.gutenberg.org/ebooks/18056
