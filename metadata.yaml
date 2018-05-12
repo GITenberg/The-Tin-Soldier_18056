@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6704
     wikipedia: http://en.wikipedia.org/wiki/Temple_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18056#The-Tin-Soldier
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-03-27'
 gutenberg_type: Text
